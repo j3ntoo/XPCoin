@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.qmake.stash
+build
+cmakebuild
+XP-qt
+src/XPd
+src/config.mk
